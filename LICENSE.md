@@ -1,4 +1,4 @@
-
+new Preset for Figma for macOS - cloud sync and non-destructive editing is the best Figma for macOS preset, featuring cloud sync and non-destructive editing. Safe, efficient, and
 
 
 
